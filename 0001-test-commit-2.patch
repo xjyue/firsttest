@@ -1,0 +1,20 @@
+From 9c8dd623d4b7b8edbbbb1ff0eab91a2c57cd5d9d Mon Sep 17 00:00:00 2001
+From: xjyue <xuejiao.yue@logicsolutions.com>
+Date: Fri, 12 Sep 2014 11:10:23 +0800
+Subject: [PATCH 1/2] test commit 2
+
+test commit 2
+---
+ README | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README b/README
+index e424ab9..83c1d09 100644
+--- a/README
++++ b/README
+@@ -1 +1 @@
+-this is a test,test commit.
++this is a test,test commit 2.
+-- 
+1.9.4.msysgit.0
+
